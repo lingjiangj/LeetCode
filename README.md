@@ -1,2 +1,4 @@
 # LeetCode
-SQL, Python solutions for LeetCode Problems
+My solutions for SQL, Python questions on LeetCode.
+|#| Title | Source Code | Difficulty |
+|---| ----- | -------- | ---------- |
