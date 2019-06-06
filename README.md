@@ -5,6 +5,6 @@ My solutions for SQL, Python questions on LeetCode.
 
 | # | Title | Source Code | Difficulty |
 |---| ----- | -------- | ---------- |
-|175|Combine Two Tables| SQL|Easy|
-|181|Employees Earning More Than Their Managers| SQL|Easy|
+|175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)| SQL|Easy|
+|181|[Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)| SQL|Easy|
 
