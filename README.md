@@ -1,5 +1,5 @@
 # LeetCode
-My solutions for SQL, Python questions on LeetCode.
+My solutions to questions on LeetCode using SQL and Python.
 (https://leetcode.com/problemset/all/)
 
 
