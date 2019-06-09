@@ -6,7 +6,7 @@ FROM (SELECT Id,RecordDate,Temperature,
             @preTemp := Temperature AS preTemp,
             @preDate := RecordDate
       FROM Weather,
-      (SELECT @preTemp := NULL,@preDate := NULL,@highter := NULL) AS var
+      (SELECT @preTemp := NULL,@preDate := NULL) AS var
      ORDER BY RecordDate) AS tmp
 WHERE Higher = "Yes" AND NextDate = "Yes"
 
