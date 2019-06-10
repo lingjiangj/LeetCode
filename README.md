@@ -15,6 +15,7 @@ My solutions to questions on LeetCode using SQL and Python.
 |183|[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)|[SQL Server](https://github.com/lingjiangj/LeetCode/blob/master/SQL/183.%20Customers%20Who%20Never%20Order.sql)|Easy|
 |184|[Department Highest Salary](https://leetcode.com/problems/department-highest-salary/)|[SQL Server](https://github.com/lingjiangj/LeetCode/blob/master/SQL/184.%20Department%20Highest%20Salary.sql)|Medium|
 |185|[Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/)|[SQL Server](https://github.com/lingjiangj/LeetCode/blob/master/SQL/185.%20Department%20Top%20Three%20Salaries.sql)|Hard|
+|196|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)|[SQL Server](https://github.com/lingjiangj/LeetCode/blob/master/SQL/196.%20Delete%20Duplicate%20Emails.sql)|Easy|
 |197|[Rising Temperature](https://leetcode.com/problems/rising-temperature/)|[SQL Server](https://github.com/lingjiangj/LeetCode/blob/master/SQL/197.%20Rising%20Temperature.sql)|Easy|
 
 
