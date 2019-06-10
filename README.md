@@ -17,5 +17,6 @@ My solutions to questions on LeetCode using SQL and Python.
 |185|[Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/)|[SQL Server](https://github.com/lingjiangj/LeetCode/blob/master/SQL/185.%20Department%20Top%20Three%20Salaries.sql)|Hard|
 |196|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)|[SQL Server](https://github.com/lingjiangj/LeetCode/blob/master/SQL/196.%20Delete%20Duplicate%20Emails.sql)|Easy|
 |197|[Rising Temperature](https://leetcode.com/problems/rising-temperature/)|[SQL Server](https://github.com/lingjiangj/LeetCode/blob/master/SQL/197.%20Rising%20Temperature.sql)|Easy|
+|262|[Trips and Users](https://leetcode.com/problems/trips-and-users/)|[MySQL](https://github.com/lingjiangj/LeetCode/blob/master/SQL/262.%20Trips%20and%20Users.sql)|Hard|
 
 
