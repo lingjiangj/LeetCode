@@ -7,6 +7,7 @@ My solutions to questions on LeetCode using SQL and Python.
 |---| ----- | -------- | ---------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)| [Python](https://github.com/lingjiangj/LeetCode/blob/master/Python/1.%20Two%20Sum.py)|Easy|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [Python](https://github.com/lingjiangj/LeetCode/blob/master/Python/2.%20Add%20Two%20Numbers.py)|Medium|
+|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [Python](https://github.com/lingjiangj/LeetCode/blob/master/Python/3.%20Longest%20Substring%20Without%20Repeating%20Characters.py)|Medium|
 |175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)| [SQL Server](https://github.com/lingjiangj/LeetCode/blob/master/SQL/175.%20Combining%20Two%20Tables.sql)|Easy|
 |176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)| [SQL Server](https://github.com/lingjiangj/LeetCode/blob/master/SQL/176.%20Second%20Highest%20Salary.sql)|Easy|
 |177|[Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/)| [SQL Server](https://github.com/lingjiangj/LeetCode/blob/master/SQL/177.%20Nth%20Highest%20Salary.sql)|Medium|
