@@ -4,6 +4,7 @@
 #         self.val = x
 #         self.next = None
 
+## Method 1 - 对链表中每一个对位相加，若大于十进1.
 class Solution(object):
     def addTwoNumbers(self, l1, l2):
         """
@@ -33,5 +34,31 @@ class Solution(object):
                 current = current.next
                 
             return result.next
+    
+# Solution 2
+##两个公式分别计算，链表 -> 整数相加 -> 链表
+class Solution(object):
+    def addTwoNumbers(self, l1, l2):
+        """
+        :type l1: ListNode
+        :type l2: ListNode
+        :rtype: ListNode
+        """
+        def getNumber(l):
+            num = ""
+            while l != None:
+                num += str(l.val)
+                l = l.next
+            return int(num[::-1])
         
+        def buildListNode(num):
+            num_reversed = str(num)[::-1]
+            result = node = ListNode(0)
+            for i in num_reversed:
+                node.next = ListNode(int(i))
+                node = node.next
+            return result.next
+        
+        n = getNumber(l1) + getNumber(l2)
+        return buildListNode(n)
         
